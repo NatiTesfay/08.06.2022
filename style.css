@@ -1,6 +1,12 @@
-#container{
+/* #container{
     width: 30vw;
     background: black;
     position: relative;
+} */
+
+#chancge_col{
+    width: 100px;
+    height: 100px;
+    background-color: black;
 }
 
